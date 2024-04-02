@@ -1,2 +1,2 @@
 # Test-2
-Hello my frends, What time is it?
+Hello my friends, What time is it?

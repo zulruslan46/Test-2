@@ -1,3 +1,3 @@
 # Test-2
-Hello my frends
+Hello my friends
 How much is your car worth?

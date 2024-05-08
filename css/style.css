@@ -1,0 +1,37 @@
+table {
+	border: 2px solid darkred;
+}
+p {
+	color: blue;
+	font-size: 12px;
+	border: 1px dotted green;
+}
+
+ul > li {
+	color: red;
+}
+
+li {
+	color: pink;
+}
+
+/* id */
+#my_heading {
+	color: yellow;
+	font-family: cursive;
+	text-align: center;
+}
+
+/* class */
+.my_headers {
+	color: black;
+	font-size: 16px;
+	font-family: cursive;
+}
+
+ .ol-padding {
+ 	padding-left: 50px;
+ 	padding-bottom: 50px;
+ 	padding-right: 50px;
+ 	text-align: center;
+ }
